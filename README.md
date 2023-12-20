@@ -3,7 +3,7 @@ An application for organizational payroll management, employing a Large Language
 
 The Database was created using MySQL and is made up of of 16 tables. It consists of 5 functions, 4 stored procedures and 6 Triggers.
 
-![Alt text](/Final_ERD.jpg?raw=true "Title")
+![Alt text](/Final_ERD.jpeg?raw=true "Title")
 
 The application, built with Streamlit, utilized Langchain to query the database through the Google Palm Large Language Model (LLM) and fine-tuned the model using the Few-Shot Learning technique.
 ![Alt text](/project_images/qna.jpg?raw=true "Title")
